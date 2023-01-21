@@ -30,8 +30,7 @@
 .r1{
     
     width: 100%;
-    background-color: gray;
-    height: 400px;
+ 
     
     margin: 80px 0px 0px 0px;
  
@@ -122,4 +121,80 @@
 }
 .ar:hover{
     cursor: pointer;
+}
+.cr{
+    position: relative;
+    left: 370px;
+    font-size: 30px;
+}
+
+
+/* media qurries */
+@media (min-width: 1024px) and (max-width: 1439px){
+    .lp{
+        width: 300px;
+    }
+    nav form input{
+        height: 40px;
+         position: relative;
+         top:3px;
+    }
+    nav form button{
+        height: 40px;
+        width: 90px;
+        position: relative;
+        top: 3px;
+    }
+    .cardd{
+        width: 100px;
+    }
+    .wl{
+        width: 300px;
+        left: 0px;
+    }
+  
+}
+
+
+/* mobile media qurries */
+@media (min-width: 320px) and (max-width: 425px){
+    .cr{
+        left: 0px;
+    }
+    .img img{
+        height: 300px;
+        width: 300px;
+    }
+   .p p{
+    left: 0px;
+   }
+  .gurl img{
+    width: 300px;
+  }
+  .grl{
+    width: 200px;
+  }
+.bg2 img{
+    left: 0px;
+    top: 0px;
+}
+.wl{
+    left: 0px;
+    width: 270px;
+}
+.sbs{
+    left: 0px;
+}
+.ic{
+    padding-left: 120px;
+}
+.h1{
+    padding-left: 22px;
+}
+.p1{
+    padding-left: 25px;
+}
+.bt1{
+    
+}
 }
