@@ -182,9 +182,7 @@
     left: 8px;
     width: 270px;
 }
-.sbs{
-    left: 0px;
-}
+
 .ic{
     padding-left: 120px;
 }
@@ -235,12 +233,13 @@
 .hd9{
     padding-left: 80px;
 }
+}
 
-
-
-
-
-
-
-
+@media (min-width: 425px){
+    .sbs{
+        display: none;
+    }
+    .con2{
+        display: none;
+    }
 }
