@@ -179,7 +179,7 @@
     top: 0px;
 }
 .wl{
-    left: 0px;
+    left: 8px;
     width: 270px;
 }
 .sbs{
@@ -194,7 +194,53 @@
 .p1{
     padding-left: 25px;
 }
-.bt1{
-    
+.h2{
+    text-align: center;
 }
+.h3{
+    font-size: 18px;
+    padding-left: 20px;
+}
+.grl{
+    height: 100px;
+}
+.h4{
+    right: 0;
+}
+.company{
+    padding-left: 80px;
+}
+.hd5{
+    font-size: 10px;
+}
+.bt{
+    position: relative;
+    left: 60px;
+}
+.bg2{
+    height: 500px;
+}
+.con2{
+    margin-top: 40px;
+}
+.mt{
+    margin-top: 10px;
+}
+.hd6{
+    padding-left: 90px;
+}
+.pra1{
+    text-align: center;
+}
+.hd9{
+    padding-left: 80px;
+}
+
+
+
+
+
+
+
+
 }
