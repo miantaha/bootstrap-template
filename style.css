@@ -239,5 +239,9 @@
 .con2{
     display: none;
 } 
+.nv{
+    padding-left: 0px;
+    display: none;
+}
 }
 
